@@ -1,0 +1,2 @@
+[console_scripts]
+tb = tinybird.tb_cli:cli
