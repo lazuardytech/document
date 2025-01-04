@@ -1,4 +1,4 @@
-# Papermark Contributors License Agreementt
+# Papermark Contributors License Agreement
 
 This Contributors License Agreement ("CLA") is entered into between the Contributor, and Papermark, Inc. ("Papermark"), collectively referred to as the "Parties."
 
